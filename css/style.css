@@ -64,7 +64,7 @@ ul{
 
 .background-img{
   position: absolute;
-  background: url(../img/horizon.jpg) no-repeat 50% 100%;
+  background: url(../img/horizon.jpg) no-repeat 0% 100%;
   background-size: cover;
   left: -5%;
   right: -5%;
