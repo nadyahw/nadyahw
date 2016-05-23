@@ -64,13 +64,13 @@ ul{
 
 .background-img{
   position: absolute;
-  background: url(../img/horizon.jpg) no-repeat 0% 100%;
+  background: url(../img/horizon2.jpg) no-repeat 150% 100%;
   background-size: cover;
   left: -5%;
   right: -5%;
   top: -5%;
-  width: 140%;
-  height: 140%;
+  width: 110%;
+  height: 110%;
 }
 
 .text-wrapper{
